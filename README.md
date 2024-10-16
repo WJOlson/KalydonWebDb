@@ -6,8 +6,9 @@ This web application lets users manage:
 * Projects: which contains the name, start & end dates  
 * Project Tasks: features a task name, completion date & tracks whether the task is completed  
 * Meetings: that can keep track of a client's info, meeting schedule & whether the meeting happened.  
-
+![Meetings Table](images/meetings.png)  
+![Search for projects](images/find_projects.png)
 # Usage  
 1. Build using visual studio or dotnet.  
 2. Locate the url in the console.  
-![localhost](https://github.com/WJOlson/KalydonWebDb/tree/main/images/localhost.png) 
+![localhost](images/localhost.png) 
