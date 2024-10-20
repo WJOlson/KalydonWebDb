@@ -6,10 +6,10 @@ This web application lets users manage:
 * Projects: which contains the name, start & end dates  
 * Project Tasks: features a task name, completion date & tracks whether the task is completed  
 * Meetings: that can keep track of a client's info, meeting schedule & whether the meeting happened.  
-![Meetings Table](images\meetings.png)  
-![Search for projects](images\find_projects.png)  
+![Meetings Table](images%5Cmeetings.png)  
+![Search for projects](images%5Cfind_projects.png)  
 # Usage  
 1. Build using visual studio or dotnet. Or download, extract and run the win-x86 build.    
 2. Locate the url in the console.  
-![localhost](images\localhost.png)  
+![localhost](images%5Clocalhost.png)  
 3. Paste url into web browser.  
