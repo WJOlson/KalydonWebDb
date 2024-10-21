@@ -4,9 +4,7 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 # Image Files
-find_projects.png
-localhost.png
-meetings.png
+
 
 # User-specific files
 *.rsuser
